@@ -3,13 +3,13 @@ import React from "react";
 import Topbox from "../../components/topbox/topbox";
 import "./home.css";
 import TopRightbox from "../../components/toprightbox/toprightbox.jsx";
-import BigChart from "../../charts/BigChart/BigChart.jsx";
-import LeftChart from "../../charts/leftLinechart/leftlinechart.jsx";
+import BigChart from "../../Charts/BigChart/BigChart.jsx";
+import LeftChart from "../../Charts/leftLinechart/leftlinechart.jsx";
 
-import Shift1Chart from "../../charts/shift1chart/shift1chart.jsx";
-import Shift2Chart from "../../charts/shift2chart/shift2chart.jsx";
-import Shift3Chart from "../../charts/shift3chart/shift3chart.jsx";
-import MeanChart from "../../charts/MeanChart/Meanchart.jsx";
+import Shift1Chart from "../../Charts/shift1chart/shift1chart.jsx";
+import Shift2Chart from "../../Charts/shift2chart/shift2chart.jsx";
+import Shift3Chart from "../../Charts/shift3chart/shift3chart.jsx";
+import MeanChart from "../../Charts/MeanChart/Meanchart.jsx";
 
 const Home = () => {
   return (
